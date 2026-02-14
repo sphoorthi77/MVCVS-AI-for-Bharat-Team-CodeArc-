@@ -66,12 +66,11 @@ Understanding is measured, not assumed.
 
 ---
 
-## 🏗️ System Architecture (High-Level)
+## 🏗️ System Architecture 
 
 Voice Input → ASR → Semantic Parser → Procedural Logic Engine →  
 Translation & Simplification → Verification Engine → Risk Prediction
 
 ---
 
-## 📂 Repository Structure
 
